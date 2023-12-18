@@ -1,0 +1,10 @@
+Name,Start,Duration,Time Format,Type,Description
+m26 (1st X),1:13.950,0:00.000,decimal,Cue,
+m40,1:50.171,0:00.000,decimal,Cue,
+m44,2:05.591,0:00.000,decimal,Cue,
+m26 (2nd X D.S.),2:45.253,0:00.000,decimal,Cue,
+m60 CODA,3:21.383,0:00.000,decimal,Cue,
+m69,3:54.323,0:00.000,decimal,Cue,
+m77,4:21.966,0:00.000,decimal,Cue,
+m85,4:43.202,0:00.000,decimal,Cue,
+m90,5:02.106,0:00.000,decimal,Cue,
